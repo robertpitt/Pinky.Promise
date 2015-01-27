@@ -1,0 +1,11 @@
+{
+  "name": "Pinky",
+  "version": "0.0.1",
+  "description": "Simple promise library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Pitt <rpitt@centiq.co.uk>",
+  "license": "GPL"
+}
